@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I am **Thibault Friedrich**, a french frontend developer and ux designer
 self-designated expert in innovative user experiences.
@@ -13,3 +13,8 @@ worlwide collaborations.
 - [Linkedin](https://www.linkedin.com/in/thibault-friedrich/)
 - [Medium](https://thibault-friedrich.medium.com/)
 - [Email](mailto:thibault.friedrich@gmail.com)
+
+## Reading list 
+
+- *The Design of EveryDay Things*, Don Norman
+- *Clean Code*, Robert C. Martin Series
