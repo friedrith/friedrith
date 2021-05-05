@@ -17,4 +17,4 @@ worlwide collaborations.
 ## Reading list 
 
 - *The Design of EveryDay Things*, Don Norman
-- *Clean Code*, Robert C. Martin Series
+- *Clean Code*, Robert C. Martin
