@@ -18,3 +18,4 @@ worlwide collaborations.
 
 - *The Design of EveryDay Things*, Don Norman
 - *Clean Code*, Robert C. Martin
+- *No Rules Rules*, Reed Hastings & Erin Meyer
