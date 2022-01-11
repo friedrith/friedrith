@@ -20,3 +20,15 @@ worlwide collaborations.
 - _The Design of EveryDay Things_, Don Norman
 - _Clean Code_, Robert C. Martin
 - _No Rules Rules_, Reed Hastings & Erin Meyer
+
+## Curated lists
+
+- [Tools for Ux Designers](https://github.com/friedrith/awesome-ux-designer)
+- [Tools for Productivity](https://github.com/friedrith/awesome-productivity-tools)
+- [Commands and alias for git](https://github.com/friedrith/awesome-git)
+
+## My homemade tools & games
+
+- [Vault](https://getvault.github.io/): my own password storage system based on Google Drive Api and an additional security layer. By design, I can't have access to your data.
+- [Password Generator](https://generate-password.github.io/): my own password generator
+- [Squid Game](https://interaction-dynamics.io/squid-game/): a game based on Green light/red light game I implemented
