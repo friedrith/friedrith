@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am **Thibault Friedrich**, a french frontend developer and ux designer
+I am **Thibault Friedrich**, a French frontend developer and ux designer
 self-designated expert in innovative user experiences.
 
 I love everything about science-fiction and Ux Design.
