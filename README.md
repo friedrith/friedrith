@@ -1,19 +1,32 @@
-# Hi there 👋
+# Hi there, I'm Thibault Friedrich 👋
 
-I am **Thibault Friedrich**, a French frontend developer and ux designer
+I am a French frontend/React developer and ux designer
 self-designated expert in innovative user experiences.
 
 I love everything about science-fiction and Ux Design.
 
-I am available as a freelance and I also plan to found a new company in the next
-few years as a externalized R&D service specialized in innovative user
-experiences. If you are interested by this concept, contact me. I am open to
-worlwide collaborations.
+I am available as a frontend freelance. I am few available slots in the next
+few months to work on your projects. Let's discuss if you need a senior developer
+able to work fast and clean:
 
 - [Portfolio](https://thibaultfriedrich.io)
 - [Linkedin](https://www.linkedin.com/in/thibault-friedrich/)
 - [Medium](https://thibault-friedrich.medium.com/)
 - [Email](mailto:thibault.friedrich@gmail.com)
+
+> I am also currently creating an externalized R&D and Design agency, called Interaction Dynamics,
+> with a strong focus on innovative user
+> experiences like VR/AR, etc. If you are interested by this concept, contact me. I am looking for handsome designers and developers to work with.
+> and I am open to worlwide collaborations:
+
+- [Interaction Dynamics Official Website](https://interaction-dynamics.io/)
+- [Interaction Dynamics github](https://github.com/interaction-dynamics)
+- [Interaction Dynamics Medium](https://medium.com/interaction-dynamics)
+
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Reading list
 
