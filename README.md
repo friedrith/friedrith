@@ -23,7 +23,7 @@ able to work fast and clean:
 - [Interaction Dynamics github](https://github.com/interaction-dynamics)
 - [Interaction Dynamics Medium](https://medium.com/interaction-dynamics)
 
-# Blog posts
+## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
