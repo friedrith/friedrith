@@ -50,3 +50,7 @@ able to work fast and clean:
 - [Vault](https://getvault.github.io/): my own password storage system based on Google Drive Api and an additional security layer. By design, I can't have access to your data.
 - [Password Generator](https://generate-password.github.io/): my own password generator
 - [Squid Game](https://interaction-dynamics.io/squid-game/): a game based on Green light/red light game I implemented
+
+## My Github stats
+
+![Thibault Friedrich's GitHub stats](https://github-readme-stats.vercel.app/api?username=friedrich&show_icons=true&hide_border=true&hide_title=true&theme=dark)
