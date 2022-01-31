@@ -23,9 +23,14 @@ able to work fast and clean:
 - [Interaction Dynamics github](https://github.com/interaction-dynamics)
 - [Interaction Dynamics Medium](https://medium.com/interaction-dynamics)
 
+## Publications
+
+- Thibault Friedrich, Arnaud Prouzeau, and Michael McGuffin. 2021. _The Effect of Increased Body Motion in Virtual Reality on a Placement-Retrieval Task_. Proceedings of the 27th ACM Symposium on Virtual Reality Software and Technology. ACM. Article 14, 1–5. DOI:https://doi.org/10.1145/3489849.3489888
+
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [How to use Machine Learning for home automation with Luxonis Depth Camera— UxTech #1](https://medium.com/interaction-dynamics/how-to-use-machine-learning-for-home-automation-with-luxonis-depth-camera-uxtech-1-765418665b5?source=rss-371df4b18210------2)
 - [How reading &quot;Clean Code&quot; improved my way to code? — CodeCraftmanship #1](https://medium.com/interaction-dynamics/how-reading-clean-code-changed-my-way-to-code-codecraftmanship-1-8f7ac8f6ffcd?source=rss-371df4b18210------2)
 - [Spatial.io: Review of A VR collaborative App — UxFuture #2](https://medium.com/interaction-dynamics/spatial-io-review-of-a-vr-collaborative-app-uxfuture-2-b6738bd25b89?source=rss-371df4b18210------2)
