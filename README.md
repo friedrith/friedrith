@@ -23,6 +23,21 @@ able to work fast and clean:
 - [Interaction Dynamics github](https://github.com/interaction-dynamics)
 - [Interaction Dynamics Medium](https://medium.com/interaction-dynamics)
 
+## Programming languages, frameworks and libraries
+
+- Javascript ES2017+ (React, React-Native, Vue, Node)
+- Python (Flask)
+- Php (Symfony)
+- Java
+- iOS
+
+## Methodologies
+
+- [Kanban](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban)
+- Code Craftsmanship
+- [Trunk-based Development](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development)
+- User-Centered Design
+
 ## Publications
 
 - Thibault Friedrich, Arnaud Prouzeau, and Michael McGuffin. 2021. _The Effect of Increased Body Motion in Virtual Reality on a Placement-Retrieval Task_. Proceedings of the 27th ACM Symposium on Virtual Reality Software and Technology. ACM. Article 14, 1–5. DOI:https://doi.org/10.1145/3489849.3489888
