@@ -61,6 +61,7 @@ able to work fast and clean:
 - _The Design of EveryDay Things_, Don Norman
 - _Clean Code_, Robert C. Martin
 - _No Rules Rules_, Reed Hastings & Erin Meyer
+- _The Best Interface is No Interface_, Golden Krishna
 
 ## Curated lists
 
