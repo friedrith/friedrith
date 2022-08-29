@@ -4,8 +4,7 @@ I am a French frontend/React developer living in Montréal 🍁 .
 
 I love everything about science-fiction and Ux Design.
 
-I am available as a frontend freelance. I am few available slots in the next
-few months to work on your projects. Let's discuss if you need a senior developer
+I am available as a new position in remote from Montréal. Let's discuss if you need a senior developer
 able to work fast and clean:
 
 - [Portfolio](https://thibaultfriedrich.io)
@@ -33,7 +32,6 @@ able to work fast and clean:
 - Python (Flask)
 - Php (Symfony)
 - Java
-- iOS
 
 ## Methodologies
 
