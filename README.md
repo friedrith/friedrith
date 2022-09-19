@@ -62,6 +62,7 @@ able to work fast and clean:
 - [Tools for Ux Designers](https://github.com/friedrith/awesome-ux-designer)
 - [Tools for Productivity](https://github.com/friedrith/awesome-productivity-tools)
 - [Commands and alias for git](https://github.com/friedrith/awesome-git)
+- [My Equipment](https://kit.co/)
 
 ## My homemade tools & games
 
