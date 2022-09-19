@@ -22,7 +22,7 @@ able to work fast and clean:
 
 -->
 
-## Favorite Programming languages, frameworks and libraries
+## Programming languages, frameworks and libraries
 
 - Javascript ES2017+ (React, React-Native, Vue, Node)
 - Python (Flask)
