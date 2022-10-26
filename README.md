@@ -56,6 +56,7 @@ able to work fast and clean:
 - _Clean Code_, Robert C. Martin
 - _No Rules Rules_, Reed Hastings & Erin Meyer
 - _The Best Interface is No Interface_, Golden Krishna
+- _Steve Jobs_, Walter Isaacson
 
 ## Curated lists
 
