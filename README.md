@@ -31,10 +31,11 @@ able to work fast and clean:
 
 ## Methodologies
 
+- [Being Agile](http://agilemanifesto.org/)
+- [Code Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
 - [Kanban](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban)
-- Code Craftsmanship
 - [Trunk-based Development](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development)
-- User-Centered Design
+- [User Experience first](https://fightforux.com/)
 
 ## Publications
 
