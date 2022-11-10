@@ -74,4 +74,4 @@ able to work fast and clean:
 
 ## My Github stats
 
-![Thibault Friedrich's GitHub stats](https://github-readme-stats.vercel.app/api?username=friedrith&show_icons=true&hide_border=true&hide_title=true&theme=dark)
+![Thibault Friedrich's GitHub stats](https://github-readme-stats.vercel.app/api?username=friedrith&show_icons=true&hide_border=true&hide_title=true&theme=codeSTACKr)
