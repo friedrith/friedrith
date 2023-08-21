@@ -24,7 +24,8 @@ able to work fast and clean:
 
 ## Programming languages, frameworks and libraries
 
-- Javascript ES2017+ (React, React-Native, Vue, Node)
+- Typescript (React, React-Native, Vue, Node)
+- Javascript ES2017+ 
 - Python (Flask)
 - Php (Symfony)
 - Java
