@@ -68,11 +68,13 @@ able to work fast and clean:
 - [Commands and alias for git](https://github.com/friedrith/awesome-git)
 - [My Equipment](https://kit.co/ThibaultFriedrich)
 
-## My homemade tools & games
+## My side projects
 
 - [Vault](https://getvault.github.io/): my own password storage system based on Google Drive Api and an additional security layer. By design, I can't have access to your data.
 - [Password Generator](https://generate-password.github.io/): my own password generator
 - [Squid Game](https://interaction-dynamics.io/squid-game/): a game based on Green light/red light game I implemented
+- [Vaxicode Redesign](https://github.com/friedrith/vaxicode-redesign): a redesign of the quebec vaxicode application to store Covid immunizations passports
+- [Node-wifi](https://github.com/friedrith/node-wifi): a library to manage wifi in node.js
 
 ## My Github stats
 
