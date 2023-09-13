@@ -60,6 +60,7 @@ able to work fast and clean:
 - _The Best Interface is No Interface_, Golden Krishna
 - _Steve Jobs_, Walter Isaacson
 - _Creative Selection_, Ken Kocienda
+- _The Scrum Guide_, Ken Schwaber & Jeff Sutherland
 
 ## Curated lists
 
