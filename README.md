@@ -33,14 +33,20 @@ able to work fast and clean:
 ## Methodologies
 
 - [Being Agile](http://agilemanifesto.org/)
+- [Scrum](https://www.scrum.org/)
 - [Code Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
 - [Kanban](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban)
 - [Trunk-based Development](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development)
 - [User Experience first](https://fightforux.com/)
+- [DevOps](https://www.atlassian.com/devops)
 
 ## Publications
 
 - Thibault Friedrich, Arnaud Prouzeau, and Michael McGuffin. 2021. _The Effect of Increased Body Motion in Virtual Reality on a Placement-Retrieval Task_. Proceedings of the 27th ACM Symposium on Virtual Reality Software and Technology. ACM. Article 14, 1–5. DOI:https://doi.org/10.1145/3489849.3489888
+
+## Certification
+
+![Image](https://images.credly.com/size/100x100/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png)
 
 ## Blog posts
 
