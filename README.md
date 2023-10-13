@@ -44,7 +44,7 @@ able to work fast and clean:
 
 - Thibault Friedrich, Arnaud Prouzeau, and Michael McGuffin. 2021. _The Effect of Increased Body Motion in Virtual Reality on a Placement-Retrieval Task_. Proceedings of the 27th ACM Symposium on Virtual Reality Software and Technology. ACM. Article 14, 1–5. DOI:https://doi.org/10.1145/3489849.3489888
 
-## Certification
+## Certifications
 
 ![Image](https://images.credly.com/size/100x100/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png)
 
