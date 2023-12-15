@@ -35,7 +35,7 @@ able to work fast and clean:
 - [Being Agile](http://agilemanifesto.org/)
 - [Scrum](https://www.scrum.org/)
 - [Code Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
-- [Kanban](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban)
+- [Kanban](https://businessmap.io/kanban-resources/getting-started/what-is-kanban)
 - [Trunk-based Development](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development)
 - [User Experience first](https://fightforux.com/)
 - [DevOps](https://www.atlassian.com/devops)
