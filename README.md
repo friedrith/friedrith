@@ -44,10 +44,6 @@ able to work fast and clean:
 
 - Thibault Friedrich, Arnaud Prouzeau, and Michael McGuffin. 2021. _The Effect of Increased Body Motion in Virtual Reality on a Placement-Retrieval Task_. Proceedings of the 27th ACM Symposium on Virtual Reality Software and Technology. ACM. Article 14, 1–5. DOI:https://doi.org/10.1145/3489849.3489888
 
-## Certifications
-
-![Image](https://images.credly.com/size/100x100/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png)
-
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -57,6 +53,10 @@ able to work fast and clean:
 - [My best practices for git in 2022 — CodeCraftsmanship #2](https://medium.com/interaction-dynamics/my-best-practices-for-git-in-2022-codecraftsmanship-2-21b156f29699?source=rss-371df4b18210------2)
 - [How to use Machine Learning for home automation with Luxonis Depth Camera— UxTech #1](https://medium.com/interaction-dynamics/how-to-use-machine-learning-for-home-automation-with-luxonis-depth-camera-uxtech-1-765418665b5?source=rss-371df4b18210------2)
 <!-- BLOG-POST-LIST:END -->
+
+## Certifications
+
+![Image](https://images.credly.com/size/100x100/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png)
 
 ## Reading list
 
