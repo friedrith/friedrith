@@ -47,11 +47,11 @@ able to work fast and clean:
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 UX responsibilities as a front-end developer — UxNow #3](https://uxdesign.cc/5-ux-responsibilities-as-a-front-end-developer-uxnow-3-838fa4a2a454?source=rss-371df4b18210------2)
 - [Boost React Composition with 3 easy-to-use patterns — CodeCraftsmanship #5](https://medium.com/interaction-dynamics/boost-react-composition-with-3-easy-to-use-patterns-codecraftsmanship-5-81e28f6fac53?source=rss-371df4b18210------2)
 - [Keep your React Components maintainable with SOLID &amp; React Composition— CodeCraftsmanship #4](https://medium.com/interaction-dynamics/keep-your-react-components-maintainable-with-solid-react-composition-codecraftsmanship-4-2969834e9ffa?source=rss-371df4b18210------2)
 - [Why should you pass the Scrum certification PSM1? — CodeCraftsmanship #3](https://medium.com/interaction-dynamics/why-should-you-pass-the-scrum-certification-psm1-fae07d314f3f?source=rss-371df4b18210------2)
 - [My best practices for git in 2022 — CodeCraftsmanship #2](https://medium.com/interaction-dynamics/my-best-practices-for-git-in-2022-codecraftsmanship-2-21b156f29699?source=rss-371df4b18210------2)
-- [How to use Machine Learning for home automation with Luxonis Depth Camera— UxTech #1](https://medium.com/interaction-dynamics/how-to-use-machine-learning-for-home-automation-with-luxonis-depth-camera-uxtech-1-765418665b5?source=rss-371df4b18210------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Certifications
