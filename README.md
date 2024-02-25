@@ -40,6 +40,13 @@ able to work fast and clean:
 - [User Experience first](https://fightforux.com/)
 - [DevOps](https://www.atlassian.com/devops)
 
+## Meetup talks
+
+- [Composition Pattern in React, React & React Native Meetup MTL, Montreal, 2023](https://friedrith.github.io/react-composition/slides)
+- [Messenger chatbots, Meetup F8, Chambéry, 2018](https://slides.com/friedrit/f8-meetup-messenger-chatbot)
+- [Lazy loading with Webpack 4.x, HumanTalks, Grenoble, 2018](https://slides.com/friedrit/human-talks-webpack)
+- [Electron, HumanTalks, Grenoble, 2016](https://slides.com/friedrit/humantalkselectron)
+
 ## Publications
 
 - Thibault Friedrich, Arnaud Prouzeau, and Michael McGuffin. 2021. _The Effect of Increased Body Motion in Virtual Reality on a Placement-Retrieval Task_. Proceedings of the 27th ACM Symposium on Virtual Reality Software and Technology. ACM. Article 14, 1–5. DOI:https://doi.org/10.1145/3489849.3489888
