@@ -2,7 +2,7 @@
 
 I am a French frontend/React developer living in Montréal 🍁. I love everything about science-fiction and Ux Design. One of my new passion is also Code Craftsmanship. I am currently working happily for a canadian company as a Senior Frontend Developer. 
 
-WANT TO RECRUIT ME?
+WANT TO RECRUIT ME? Feel free to contact me.
 
 - [Portfolio](https://thibaultfriedrich.io)
 - [Linkedin](https://www.linkedin.com/in/thibault-friedrich/)
