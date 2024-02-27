@@ -80,6 +80,7 @@ __WANT TO RECRUIT ME? Feel free to contact me.__
 
 - [Tools for Ux Designers](https://github.com/friedrith/awesome-ux-designer)
 - [Tools for Productivity](https://github.com/friedrith/awesome-productivity-tools)
+- [Libraries for developers](https://github.com/friedrith/awesome-developer)
 - [Commands and alias for git](https://github.com/friedrith/awesome-git)
 - [My equipment](https://kit.co/ThibaultFriedrich/my-desk-office)
 
