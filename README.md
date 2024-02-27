@@ -1,7 +1,8 @@
 # Hi there, I'm Thibault Friedrich 👋
 
-I am a French frontend/React developer living in Montréal 🍁. I love everything about science-fiction and Ux Design. I am currently working happily for a canadian company as a Senior Frontend Developer. I am also open to collaborations and short missions in Montréal or full-remote. Let's discuss if you need a developer
-able to work fast and clean:
+I am a French frontend/React developer living in Montréal 🍁. I love everything about science-fiction and Ux Design. One of my new passion is also Code Craftsmanship. I am currently working happily for a canadian company as a Senior Frontend Developer. 
+
+WANT TO RECRUIT ME?
 
 - [Portfolio](https://thibaultfriedrich.io)
 - [Linkedin](https://www.linkedin.com/in/thibault-friedrich/)
