@@ -30,6 +30,7 @@ __WANT TO RECRUIT ME? Feel free to contact me.__
 - Python (Flask)
 - Php (Symfony)
 - Java
+- Continuous Integration (Github Actions)
 
 ## Methodologies
 
