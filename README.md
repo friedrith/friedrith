@@ -87,6 +87,7 @@ __WANT TO RECRUIT ME? Feel free to contact me.__
 
 ## My side projects
 
+- [Contributing-generator](https://github.com/friedrith/contributing-generator): a smart CLI prompt to generate repository guide files like CONTRIBUTING or README.md.
 - [Vault](https://getvault.github.io/): my own password storage system based on Google Drive Api and an additional security layer. By design, I can't have access to your data.
 - [Password Generator](https://generate-password.github.io/): my own password generator
 - [Squid Game](https://interaction-dynamics.io/squid-game/): a game based on Green light/red light game I implemented
