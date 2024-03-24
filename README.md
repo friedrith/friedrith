@@ -58,7 +58,7 @@ __WANT TO RECRUIT ME? Feel free to contact me.__
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to convert your screen recordings to GIF on macOS? — Productivity #1](https://thibault-friedrich.medium.com/how-to-convert-your-screen-recordings-to-gif-on-macos-productivity-1-781dbe56fe5c?source=rss-371df4b18210------2)
+- [How to convert your screen recordings to GIF on macOS? — Productivity #1](https://medium.com/interaction-dynamics/how-to-convert-your-screen-recordings-to-gif-on-macos-productivity-1-781dbe56fe5c?source=rss-371df4b18210------2)
 - [5 UX responsibilities as a front-end developer — UxNow #3](https://medium.com/interaction-dynamics/5-ux-responsibilities-as-a-front-end-developer-uxnow-3-838fa4a2a454?source=rss-371df4b18210------2)
 - [Boost React Composition with 3 easy-to-use patterns — CodeCraftsmanship #5](https://medium.com/interaction-dynamics/boost-react-composition-with-3-easy-to-use-patterns-codecraftsmanship-5-81e28f6fac53?source=rss-371df4b18210------2)
 - [Keep your React Components maintainable with SOLID &amp; React Composition— CodeCraftsmanship #4](https://medium.com/interaction-dynamics/keep-your-react-components-maintainable-with-solid-react-composition-codecraftsmanship-4-2969834e9ffa?source=rss-371df4b18210------2)
