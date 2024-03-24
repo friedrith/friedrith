@@ -65,6 +65,8 @@ __WANT TO RECRUIT ME? Feel free to contact me.__
 - [Why should you pass the Scrum certification PSM1? — CodeCraftsmanship #3](https://medium.com/interaction-dynamics/why-should-you-pass-the-scrum-certification-psm1-fae07d314f3f?source=rss-371df4b18210------2)
 <!-- BLOG-POST-LIST:END -->
 
+You can find all my articles on [Medium](https://medium.com/@thibault-friedrich) and [Dev.to](https://dev.to/).
+
 ## Certifications
 
 ![Image](https://images.credly.com/size/100x100/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png)
