@@ -91,6 +91,7 @@ You can find all my articles on [Medium](https://medium.com/@thibault-friedrich)
 
 ## My side projects
 
+- [Video to GIF Apple shortcut](./https://github.com/friedrith/productivity/blob/master/convert-video-to-gif.md)
 - [Contributing-generator](https://github.com/friedrith/contributing-generator): a smart CLI prompt to generate repository guide files like CONTRIBUTING or README.md.
 - [Vault](https://getvault.github.io/): my own password storage system based on Google Drive Api and an additional security layer. By design, I can't have access to your data.
 - [Password Generator](https://generate-password.github.io/): my own password generator
