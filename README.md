@@ -100,6 +100,8 @@ You can find all my articles on [Medium](https://medium.com/@thibault-friedrich)
 - [Vaxicode Redesign](https://github.com/friedrith/vaxicode-redesign): a redesign of the quebec vaxicode application to store Covid immunizations passports
 - [Node-wifi](https://github.com/friedrith/node-wifi): a library to manage wifi in node.js
 
+All my projects are available on [there](./projects/).
+
 ## My Github stats
 
 ![Thibault Friedrich's GitHub stats](https://github-readme-stats.vercel.app/api?username=friedrith&show_icons=true&hide_border=true&hide_title=true&theme=codeSTACKr)
