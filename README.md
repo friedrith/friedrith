@@ -93,12 +93,13 @@ You can find all my articles on [Medium](https://medium.com/@thibault-friedrich)
 ## My side projects
 
 - [Video to GIF Apple shortcut](./https://github.com/friedrith/productivity/blob/master/convert-video-to-gif.md)
-- [Contributing-generator](https://github.com/friedrith/contributing-generator): a smart CLI prompt to generate repository guide files like CONTRIBUTING or README.md.
+- [Learn Platform](https://learn.interaction-dynamics.io/): a learning platform for front-end developers ![react](https://img.shields.io/badge/react-blue) ![react](https://img.shields.io/badge/next.js-green) ![tailwindcss](https://img.shields.io/badge/tailwindCSS-red)
+- [Contributing-generator](https://github.com/friedrith/contributing-generator): a smart CLI prompt to generate repository guide files like CONTRIBUTING or README.md ![react](https://img.shields.io/badge/node.js-blue).
 - [Vault](https://getvault.github.io/): my own password storage system based on Google Drive Api and an additional security layer. By design, I can't have access to your data.
 - [Password Generator](https://generate-password.github.io/): my own password generator
-- [Squid Game](https://interaction-dynamics.io/squid-game/): a game based on Green light/red light game I implemented
-- [Vaxicode Redesign](https://github.com/friedrith/vaxicode-redesign): a redesign of the quebec vaxicode application to store Covid immunizations passports
-- [Node-wifi](https://github.com/friedrith/node-wifi): a library to manage wifi in node.js
+- [Squid Game](https://interaction-dynamics.io/squid-game/): a game based on Green light/red light game I implemented ![react](https://img.shields.io/badge/react-blue)
+- [Vaxicode Redesign](https://github.com/friedrith/vaxicode-redesign): a redesign of the quebec vaxicode application to store Covid immunizations passports ![react](https://img.shields.io/badge/react-native-blue)
+- [Node-wifi](https://github.com/friedrith/node-wifi): a library to manage wifi in node.js ![react](https://img.shields.io/badge/node.js-blue)
 
 ## My Github stats
 
