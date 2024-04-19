@@ -99,7 +99,7 @@ You can find all my articles on [Medium](https://medium.com/@thibault-friedrich)
 - [Smart Home activity detector](https://github.com/interaction-dynamics/labs-smart-home-with-luxonis): A smart home project using luxonis camera and machine-learning. ![python](https://img.shields.io/badge/python-yellow) ![opencv](https://img.shields.io/badge/opencv-blue)
 - [Vault](https://getvault.github.io/): my own password storage based on Google Drive Api and an extra AES512 security layer. By design, I can't have access your data. ![react](https://img.shields.io/badge/react-blue) ![Google Drive API](https://img.shields.io/badge/google%20drive%20api-green)
 - [Password Generator](https://generate-password.github.io/): my own password generator ![Angular](https://img.shields.io/badge/angular-yellow)
-- [Squid Game](https://interaction-dynamics.io/squid-game/): a game based on Green light/red light game I implemented ![react](https://img.shields.io/badge/react-blue)
+- [Squid Game](https://interaction-dynamics.io/squid-game/): a game based on Green light/red light game I implemented ![react](https://img.shields.io/badge/react-blue) ![webcam](https://img.shields.io/badge/webcam-orange)
 - [Vaxicode Redesign](https://github.com/friedrith/vaxicode-redesign): a redesign of the quebec vaxicode application to store Covid immunizations passports ![react](https://img.shields.io/badge/react%20native-blue)
 - [Node-wifi](https://github.com/friedrith/node-wifi): a library to manage wifi in node.js ![react](https://img.shields.io/badge/node.js-blue)
 
