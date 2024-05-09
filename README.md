@@ -58,11 +58,11 @@ I am also the main contributor of a learning platform for front-end developers: 
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why you should do Code Review — CodeCraftsmanship #6](https://medium.com/interaction-dynamics/why-you-should-do-code-review-codecraftsmanship-6-7b4de858f057?source=rss-371df4b18210------2)
 - [Stop reinventing how to render price— UxNow #4](https://medium.com/interaction-dynamics/stop-reinventing-how-to-render-price-uxnow-4-286a7a178c85?source=rss-371df4b18210------2)
 - [5 Rules to write maintainable React unit tests with testing-library — CodeCraftsmanship #6](https://medium.com/interaction-dynamics/5-rules-to-write-maintainable-react-unit-tests-with-testing-library-codecraftsmanship-6-02572833ec4b?source=rss-371df4b18210------2)
 - [How to convert your screen recordings to GIF on macOS? — Productivity #1](https://medium.com/interaction-dynamics/how-to-convert-your-screen-recordings-to-gif-on-macos-productivity-1-781dbe56fe5c?source=rss-371df4b18210------2)
 - [5 UX responsibilities as a front-end developer — UxNow #3](https://medium.com/interaction-dynamics/5-ux-responsibilities-as-a-front-end-developer-uxnow-3-838fa4a2a454?source=rss-371df4b18210------2)
-- [Boost React Composition with 3 easy-to-use patterns — CodeCraftsmanship #5](https://medium.com/interaction-dynamics/boost-react-composition-with-3-easy-to-use-patterns-codecraftsmanship-5-81e28f6fac53?source=rss-371df4b18210------2)
 <!-- BLOG-POST-LIST:END -->
 
 You can find all my articles on [Medium](https://medium.com/@thibault-friedrich) and [Dev.to](https://dev.to/).
