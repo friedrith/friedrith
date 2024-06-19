@@ -58,7 +58,7 @@ I am also the main contributor of a learning platform for front-end developers: 
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [9 Tips to be a Better Developer — CodeCraftsmanship #7](https://thibault-friedrich.medium.com/9-tips-to-be-a-better-developer-codecraftsmanship-7-6e3e7e979511?source=rss-371df4b18210------2)
+- [9 Tips to be a Better Developer — CodeCraftsmanship #7](https://blog.interaction-dynamics.io/9-tips-to-be-a-better-developer-codecraftsmanship-7-6e3e7e979511?source=rss-371df4b18210------2)
 - [How to kick off a new side project — #DesignSystem week 1](https://blog.interaction-dynamics.io/how-to-kick-off-a-new-side-project-designsystem-week-1-8322a22abcf4?source=rss-371df4b18210------2)
 - [We need a good alternative to Storybook — DesignSystem #1](https://blog.interaction-dynamics.io/we-need-a-good-alternative-to-storybook-designsystem-1-273acd002d2b?source=rss-371df4b18210------2)
 - [Why you should do Code Review — CodeCraftsmanship #6](https://blog.interaction-dynamics.io/why-you-should-do-code-review-codecraftsmanship-6-7b4de858f057?source=rss-371df4b18210------2)
