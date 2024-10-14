@@ -58,11 +58,11 @@ I am also the main contributor of a learning platform for front-end developers: 
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Analysis of the User Interface of the Future: the prompt — UxFuture #2](https://blog.interaction-dynamics.io/analysis-of-the-user-interface-of-the-future-the-prompt-uxfuture-2-54a9f102aefd?source=rss-371df4b18210------2)
 - [8 Tips to succeed your Design System— DesignSystem #2](https://blog.interaction-dynamics.io/8-tips-to-succeed-your-design-system-designsystem-2-1bf3f8e9f0f8?source=rss-371df4b18210------2)
 - [9 Tips to be a Better Developer — CodeCraftsmanship #7](https://blog.interaction-dynamics.io/9-tips-to-be-a-better-developer-codecraftsmanship-7-6e3e7e979511?source=rss-371df4b18210------2)
 - [How to kick off a new side project — #DesignSystem week 1](https://blog.interaction-dynamics.io/how-to-kick-off-a-new-side-project-designsystem-week-1-8322a22abcf4?source=rss-371df4b18210------2)
 - [We need a good alternative to Storybook — DesignSystem #1](https://blog.interaction-dynamics.io/we-need-a-good-alternative-to-storybook-designsystem-1-273acd002d2b?source=rss-371df4b18210------2)
-- [Why you should do Code Review — CodeCraftsmanship #6](https://blog.interaction-dynamics.io/why-you-should-do-code-review-codecraftsmanship-6-7b4de858f057?source=rss-371df4b18210------2)
 <!-- BLOG-POST-LIST:END -->
 
 You can find all my articles on [Medium](https://medium.com/@thibault-friedrich) and [Dev.to](https://dev.to/).
