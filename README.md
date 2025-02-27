@@ -44,8 +44,11 @@ I am also the main contributor of a learning platform for front-end developers: 
 - [User Experience first](https://fightforux.com/)
 - [DevOps](https://www.atlassian.com/devops)
 
-## Meetup talks
+## Meetup & Conference talks
 
+- [Abstract Syntax Tree (AST) & Typescript Compiler API, Confoo Conference 2025, Montreal, 2025](https://github.com/friedrith/abstract-syntax-tree)
+- [SOLID Principles in React Components, Confoo Conference 2025, Montreal, 2025](https://friedrith.github.io/react-composition/slides)
+- [Abstract Syntax Tree (AST) & Typescript Compiler API, Typescript Meetup MTL, Montreal, 2024](https://github.com/friedrith/abstract-syntax-tree)
 - [Composition Pattern in React, React & React Native Meetup MTL, Montreal, 2023](https://friedrith.github.io/react-composition/slides)
 - [Messenger chatbots, Meetup F8, Chambéry, 2018](https://slides.com/friedrit/f8-meetup-messenger-chatbot)
 - [Lazy loading with Webpack 4.x, HumanTalks, Grenoble, 2018](https://slides.com/friedrit/human-talks-webpack)
