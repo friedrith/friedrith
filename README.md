@@ -61,7 +61,7 @@ I am also the main contributor of a learning platform for front-end developers: 
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The perfect setup for Dev Presentations — Productivity #2](https://thibault-friedrich.medium.com/the-perfect-setup-for-dev-presentations-productivity-2-124feac78f17?source=rss-371df4b18210------2)
+- [The perfect setup for Dev Presentations — Productivity #2](https://blog.interaction-dynamics.io/the-perfect-setup-for-dev-presentations-productivity-2-124feac78f17?source=rss-371df4b18210------2)
 - [Analysis of the User Interface of the Future: the prompt — UxFuture #2](https://blog.interaction-dynamics.io/analysis-of-the-user-interface-of-the-future-the-prompt-uxfuture-2-54a9f102aefd?source=rss-371df4b18210------2)
 - [8 Tips to succeed your Design System— DesignSystem #2](https://blog.interaction-dynamics.io/8-tips-to-succeed-your-design-system-designsystem-2-1bf3f8e9f0f8?source=rss-371df4b18210------2)
 - [9 Tips to be a Better Developer — CodeCraftsmanship #7](https://blog.interaction-dynamics.io/9-tips-to-be-a-better-developer-codecraftsmanship-7-6e3e7e979511?source=rss-371df4b18210------2)
