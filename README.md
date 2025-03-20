@@ -11,6 +11,11 @@ I am also the main contributor of a learning platform for front-end developers: 
 - [Medium](https://thibault-friedrich.medium.com/)
 - [Email](mailto:thibault.friedrich@gmail.com)
 
+I am also available for freelance on these platforms:
+
+- [Interaction Dynamics Official Website](https://interaction-dynamics.io/)
+- [Gun.io](https://app.gun.io/app/freelancer/215110e0-4ff5-4aca-ad85-2cc7b6c927b0/)
+
 <!--
 
 > I am also currently creating an externalized R&D and Design agency, called Interaction Dynamics,
@@ -18,7 +23,7 @@ I am also the main contributor of a learning platform for front-end developers: 
 > experiences like VR/AR, etc. If you are interested by this concept, contact me. I am looking for handsome designers and developers to work with.
 > and I am open to worlwide collaborations:
 
-- [Interaction Dynamics Official Website](https://interaction-dynamics.io/)
+
 - [Interaction Dynamics github](https://github.com/interaction-dynamics)
 - [Interaction Dynamics Medium](https://medium.com/interaction-dynamics)
 
