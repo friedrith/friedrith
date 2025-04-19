@@ -66,11 +66,11 @@ I am also available for freelance on these platforms:
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to remain focused at work on iOS/macOS — Productivity #3](https://blog.interaction-dynamics.io/how-to-remain-focused-at-work-on-ios-macos-productivity-3-0b1572314fc3?source=rss-371df4b18210------2)
 - [The perfect setup for Dev Presentations — Productivity #2](https://blog.interaction-dynamics.io/the-perfect-setup-for-dev-presentations-productivity-2-124feac78f17?source=rss-371df4b18210------2)
 - [Analysis of the User Interface of the Future: the prompt — UxFuture #2](https://blog.interaction-dynamics.io/analysis-of-the-user-interface-of-the-future-the-prompt-uxfuture-2-54a9f102aefd?source=rss-371df4b18210------2)
 - [8 Tips to succeed your Design System— DesignSystem #2](https://blog.interaction-dynamics.io/8-tips-to-succeed-your-design-system-designsystem-2-1bf3f8e9f0f8?source=rss-371df4b18210------2)
 - [9 Tips to be a Better Developer — CodeCraftsmanship #7](https://blog.interaction-dynamics.io/9-tips-to-be-a-better-developer-codecraftsmanship-7-6e3e7e979511?source=rss-371df4b18210------2)
-- [How to kick off a new side project — #DesignSystem week 1](https://blog.interaction-dynamics.io/how-to-kick-off-a-new-side-project-designsystem-week-1-8322a22abcf4?source=rss-371df4b18210------2)
 <!-- BLOG-POST-LIST:END -->
 
 You can find all my articles on [Medium](https://medium.com/@thibault-friedrich) and [Dev.to](https://dev.to/).
