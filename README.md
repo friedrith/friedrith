@@ -30,8 +30,9 @@ I am also available for freelancing on these platforms:
 
 -->
 
-## Programming languages, frameworks and libraries
+## Programming languages, frameworks, libraries & technologies
 
+- AI (Claude/Cline/v0/Amazon Q, ChatGPT, Figma Make)
 - Typescript (React, Next.js, React-Native, Vue, Node)
 - Javascript ES2017+
 - Python (Flask)
@@ -41,6 +42,7 @@ I am also available for freelancing on these platforms:
 
 ## Methodologies
 
+- [AI-enhanced](https://ai-enhanced.dev)
 - [Being Agile](http://agilemanifesto.org/)
 - [Scrum](https://www.scrum.org/)
 - [Code Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
