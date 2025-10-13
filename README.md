@@ -39,6 +39,7 @@ I am also available for freelancing on these platforms:
 - Php (Symfony)
 - Java
 - Continuous Integration (Github Actions, Bitbucket Pipelines, Gitlab, Jenkins)
+- Rust [beginner]
 
 ## Methodologies
 
