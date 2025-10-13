@@ -41,6 +41,14 @@ I am also available for freelancing on these platforms:
 - Continuous Integration (Github Actions, Bitbucket Pipelines, Gitlab, Jenkins)
 - Rust [beginner]
 
+## AI Tools
+
+- ChatGPT for text rewriting
+- Claude for coding with Zed and command lines with Warp
+- Gemini for image generation and improvements
+- Perplexity for web search
+- Figma make for mockups
+
 ## Methodologies
 
 - [AI-enhanced](https://ai-enhanced.dev)
