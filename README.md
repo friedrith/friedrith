@@ -91,6 +91,7 @@ You can find all my articles on [Medium](https://medium.com/@thibault-friedrich)
 - _Creative Selection_, Ken Kocienda
 - _The Scrum Guide_, Ken Schwaber & Jeff Sutherland
 - _Extreme Programming Explained_, Kent Beck
+- _The Stoic Mind_, Addy Osmani
 
 ## Curated lists
 
