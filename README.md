@@ -62,6 +62,7 @@ I am also available for freelancing on these platforms:
 
 ## Meetup & Conference talks
 
+- [Pragmatic Design System, Montreal, 2025]([https://github.com/friedrith/abstract-syntax-tree](https://github.com/friedrith/pragmatic-design-system))
 - [Abstract Syntax Tree (AST) & Typescript Compiler API, Confoo Conference 2025, Montreal, 2025](https://github.com/friedrith/abstract-syntax-tree)
 - [SOLID Principles in React Components, Confoo Conference 2025, Montreal, 2025](https://github.com/friedrith/react-composition)
 - [Abstract Syntax Tree (AST) & Typescript Compiler API, Typescript Meetup MTL, Montreal, 2024](https://github.com/friedrith/abstract-syntax-tree)
