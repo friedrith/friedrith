@@ -114,9 +114,9 @@ You can find all my articles on [Medium](https://medium.com/@thibault-friedrich)
 
 ## My side projects
 
-- [Features-cli](https://github.com/interaction-dynamics/features) ![react](https://img.shields.io/badge/react-blue) ![react](https://img.shields.io/badge/rust-orange) ![tailwindcss](https://img.shields.io/badge/tailwindCSS-red)
-- [Ship it](https://github.com/interaction-dynamics/ship-it)![next.js](https://img.shields.io/badge/next.js-green) ![tailwindcss](https://img.shields.io/badge/tailwindCSS-red)
-- [Design System Hub](https://design-system-hub.com/) ![next.js](https://img.shields.io/badge/next.js-green)
+- [Features-cli](https://github.com/interaction-dynamics/features): a CLI and web dashboard to explore the features in your codebase ![react](https://img.shields.io/badge/react-blue) ![react](https://img.shields.io/badge/rust-orange) ![tailwindcss](https://img.shields.io/badge/tailwindCSS-red)
+- [Ship it](https://github.com/interaction-dynamics/ship-it): a next.js template ![next.js](https://img.shields.io/badge/next.js-green) ![tailwindcss](https://img.shields.io/badge/tailwindCSS-red)
+- [Design System Hub](https://design-system-hub.com/): a Design system documentation tool ![next.js](https://img.shields.io/badge/next.js-green)
 - [Video to GIF Apple shortcut](https://github.com/friedrith/productivity/blob/master/convert-video-to-gif.md)
 - [Tech Recruiter](https://tech-recruiter.interaction-dynamics.io/): a resume parser ![react](https://img.shields.io/badge/react-blue) ![next.js](https://img.shields.io/badge/next.js-green) ![tailwindcss](https://img.shields.io/badge/tailwindCSS-red) ![vercel](https://img.shields.io/badge/vercel-orange) ![chatgpt](https://img.shields.io/badge/chatgpt-orange)
 - [Learn Platform](https://learn.interaction-dynamics.io/): a learning platform for front-end developers ![react](https://img.shields.io/badge/react-blue) ![next.js](https://img.shields.io/badge/next.js-green) ![tailwindcss](https://img.shields.io/badge/tailwindCSS-red)
