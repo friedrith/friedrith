@@ -114,7 +114,8 @@ You can find all my articles on [Medium](https://medium.com/@thibault-friedrich)
 
 ## My side projects
 
-- [Features-cli](https://github.com/interaction-dynamics/features) ![react](https://img.shields.io/badge/node.js-blue) ![react](https://img.shields.io/badge/rust-orange)
+- [Features-cli](https://github.com/interaction-dynamics/features) ![react](https://img.shields.io/badge/react-blue) ![react](https://img.shields.io/badge/rust-orange) ![tailwindcss](https://img.shields.io/badge/tailwindCSS-red)
+- [Ship it](https://github.com/interaction-dynamics/ship-it)![next.js](https://img.shields.io/badge/next.js-green) ![tailwindcss](https://img.shields.io/badge/tailwindCSS-red)
 - [Design System Hub](https://design-system-hub.com/) ![next.js](https://img.shields.io/badge/next.js-green)
 - [Video to GIF Apple shortcut](https://github.com/friedrith/productivity/blob/master/convert-video-to-gif.md)
 - [Tech Recruiter](https://tech-recruiter.interaction-dynamics.io/): a resume parser ![react](https://img.shields.io/badge/react-blue) ![next.js](https://img.shields.io/badge/next.js-green) ![tailwindcss](https://img.shields.io/badge/tailwindCSS-red) ![vercel](https://img.shields.io/badge/vercel-orange) ![chatgpt](https://img.shields.io/badge/chatgpt-orange)
