@@ -127,7 +127,3 @@ You can find all my articles on [Medium](https://medium.com/@thibault-friedrich)
 - [Squid Game](https://interaction-dynamics.io/squid-game/): a game based on Green light/red light game I implemented ![react](https://img.shields.io/badge/react-blue) ![webcam](https://img.shields.io/badge/webcam-orange)
 - [Vaxicode Redesign](https://github.com/friedrith/vaxicode-redesign): a redesign of the quebec vaxicode application to store Covid immunizations passports ![react](https://img.shields.io/badge/react%20native-blue)
 - [Node-wifi](https://github.com/friedrith/node-wifi): a library to manage wifi in node.js ![react](https://img.shields.io/badge/node.js-blue)
-
-## My Github stats
-
-![Thibault Friedrich's GitHub stats](https://github-readme-stats.vercel.app/api?username=friedrith&show_icons=true&hide_border=true&hide_title=true&theme=codeSTACKr)
