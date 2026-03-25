@@ -80,10 +80,10 @@ I am also available for freelancing on these platforms:
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Mute/Unmute Google Meet with a Global Keyboard Shortcut on macOS](https://blog.interaction-dynamics.io/how-to-mute-unmute-google-meet-with-a-global-keyboard-shortcut-on-macos-83485f70c45f?source=rss-371df4b18210------2)
-- [Level up your frontend project with 5 typesafe patterns — CodeCraftsmanship #8](https://blog.interaction-dynamics.io/level-up-your-frontend-project-with-5-typesafe-patterns-codecraftsmanship-8-fa39362a5488?source=rss-371df4b18210------2)
-- [How to remain focused at work on iOS/macOS — Productivity #3](https://blog.interaction-dynamics.io/how-to-remain-focused-at-work-on-ios-macos-productivity-3-0b1572314fc3?source=rss-371df4b18210------2)
-- [The perfect setup for Dev Presentations — Productivity #2](https://blog.interaction-dynamics.io/the-perfect-setup-for-dev-presentations-productivity-2-124feac78f17?source=rss-371df4b18210------2)
-- [Analysis of the User Interface of the Future: the prompt — UxFuture #2](https://blog.interaction-dynamics.io/analysis-of-the-user-interface-of-the-future-the-prompt-uxfuture-2-54a9f102aefd?source=rss-371df4b18210------2)
+- [Level up your frontend project with 5 typesafe patterns — CodeCraftsmanship #8](https://blog.interaction-dynamics.io/level-up-your-frontend-project-with-5-typesafe-patterns-codecraftsmanship-8-fa39362a5488?source=rss-371df4b18210------2)
+- [How to remain focused at work on iOS/macOS — Productivity #3](https://blog.interaction-dynamics.io/how-to-remain-focused-at-work-on-ios-macos-productivity-3-0b1572314fc3?source=rss-371df4b18210------2)
+- [The perfect setup for Dev Presentations — Productivity #2](https://blog.interaction-dynamics.io/the-perfect-setup-for-dev-presentations-productivity-2-124feac78f17?source=rss-371df4b18210------2)
+- [Analysis of the User Interface of the Future: the prompt — UxFuture #2](https://blog.interaction-dynamics.io/analysis-of-the-user-interface-of-the-future-the-prompt-uxfuture-2-54a9f102aefd?source=rss-371df4b18210------2)
 <!-- BLOG-POST-LIST:END -->
 
 You can find all my articles on [Medium](https://medium.com/@thibault-friedrich) and [Dev.to](https://dev.to/).
@@ -103,6 +103,7 @@ You can find all my articles on [Medium](https://medium.com/@thibault-friedrich)
 - _The Scrum Guide_, Ken Schwaber & Jeff Sutherland
 - _Extreme Programming Explained_, Kent Beck
 - _The Stoic Mind_, Addy Osmani
+- _Handbook for New Employees_, Valve Corporation
 
 ## Curated lists
 
