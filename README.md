@@ -32,7 +32,7 @@ I am also available for freelancing on these platforms:
 
 ## Programming languages, frameworks, libraries & technologies
 
-- AI (Claude/Cline/v0/Amazon Q, ChatGPT, Figma Make)
+- AI (Claude/v0, ChatGPT)
 - Typescript (React, Next.js, React-Native, Vue, Node)
 - Javascript ES2017+
 - Python (Flask)
