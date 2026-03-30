@@ -47,7 +47,6 @@ I am also available for freelancing on these platforms:
 - Claude for coding with Zed and command lines with Warp
 - Gemini for image generation and improvements
 - Perplexity for web search
-- Figma make for mockups
 
 ## Methodologies
 
