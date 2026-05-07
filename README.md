@@ -61,8 +61,8 @@ I am also available for freelancing on these platforms:
 
 ## Meetup & Conference talks
 
-- [Pragmatic Design System, Confoo Conference, Montreal, 2026]([https://github.com/friedrith/pragmatic-design-system](https://github.com/friedrith/pragmatic-design-system/tree/2026-confoo))
-- [Pragmatic Design System, /dev/mtl Conference, Montreal, 2025]([https://github.com/friedrith/pragmatic-design-system](https://github.com/friedrith/pragmatic-design-system/tree/2025-dev-mtl))
+- [Pragmatic Design System, Confoo Conference, Montreal, 2026](https://github.com/friedrith/pragmatic-design-system/tree/2026-confoo)
+- [Pragmatic Design System, /dev/mtl Conference, Montreal, 2025](https://github.com/friedrith/pragmatic-design-system/tree/2025-dev-mtl)
 - [Pragmatic Design System, React & React Native Meetup MTL, Montreal, 2025](https://github.com/friedrith/pragmatic-design-system/tree/2025-react-montreal-meetup)
 - [Abstract Syntax Tree (AST) & Typescript Compiler API, Confoo Conference 2025, Montreal, 2025](https://github.com/friedrith/abstract-syntax-tree)
 - [SOLID Principles in React Components, Confoo Conference 2025, Montreal, 2025](https://github.com/friedrith/react-composition)
@@ -119,7 +119,6 @@ You can find all my articles on [Medium](https://medium.com/@thibault-friedrich)
 - [Ship it](https://github.com/interaction-dynamics/ship-it): a next.js template ![next.js](https://img.shields.io/badge/next.js-green) ![tailwindcss](https://img.shields.io/badge/tailwindCSS-red)
 - [Design System Hub](https://design-system-hub.com/): a Design system documentation tool ![next.js](https://img.shields.io/badge/next.js-green)
 - [Video to GIF Apple shortcut](https://github.com/friedrith/productivity/blob/master/convert-video-to-gif.md)
-- [Tech Recruiter](https://tech-recruiter.interaction-dynamics.io/): a resume parser ![react](https://img.shields.io/badge/react-blue) ![next.js](https://img.shields.io/badge/next.js-green) ![tailwindcss](https://img.shields.io/badge/tailwindCSS-red) ![vercel](https://img.shields.io/badge/vercel-orange) ![chatgpt](https://img.shields.io/badge/chatgpt-orange)
 - [Learn Platform](https://learn.interaction-dynamics.io/): a learning platform for front-end developers ![react](https://img.shields.io/badge/react-blue) ![next.js](https://img.shields.io/badge/next.js-green) ![tailwindcss](https://img.shields.io/badge/tailwindCSS-red)
 - [Contributing-generator](https://github.com/friedrith/contributing-generator): a smart CLI prompt to generate repository guide files like CONTRIBUTING or README.md. ![react](https://img.shields.io/badge/node.js-blue)
 - [Smart Home activity detector](https://github.com/interaction-dynamics/labs-smart-home-with-luxonis): A smart home project using luxonis camera and machine-learning. ![python](https://img.shields.io/badge/python-yellow) ![opencv](https://img.shields.io/badge/opencv-blue)
